@@ -1,0 +1,7 @@
+{
+    "breed": "Labrador",
+    "name": "Roxy",
+    "age": 5,
+    "isFriendly": true,
+    "foodPreferences": ["Chicken", "Fish"]
+}

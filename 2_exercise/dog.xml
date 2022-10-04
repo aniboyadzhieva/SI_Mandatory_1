@@ -1,0 +1,10 @@
+<dog>
+    <breed>Labrador</breed>
+    <name>Roxy</name>
+    <age>5</age>
+    <isFriendly>true</isFriendly>
+    <foodPreferences>
+        <foodPreference>Chicken</foodPreference>
+        <foodPreference>Fish</foodPreference>
+    </foodPreferences>
+</dog>
